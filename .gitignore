@@ -107,3 +107,4 @@ build/
 
 # idea
 .idea
+.npmrc
